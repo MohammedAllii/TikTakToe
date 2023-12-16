@@ -1,0 +1,5 @@
+![Android Emulator - Pixel_3a_XL_API_26_5554 16_12_2023 14_45_45](https://github.com/MohammedAllii/TikTakToe/assets/58521599/ad3c6352-2ac6-465e-88f3-6ec281396783)
+![Android Emulator - Pixel_3a_XL_API_26_5554 16_12_2023 14_46_02](https://github.com/MohammedAllii/TikTakToe/assets/58521599/d33801d1-1a71-4c17-8611-c55aae0b7879)
+![Android Emulator - Pixel_3a_XL_API_26_5554 16_12_2023 14_46_11](https://github.com/MohammedAllii/TikTakToe/assets/58521599/1dbc6077-b3d1-421b-8af4-28da43ddf92d)
+![Android Emulator - Pixel_3a_XL_API_26_5554 16_12_2023 14_46_23](https://github.com/MohammedAllii/TikTakToe/assets/58521599/7779668f-af33-446f-8b91-dada053bf292)
+![Android Emulator - Pixel_3a_XL_API_26_5554 16_12_2023 14_46_31](https://github.com/MohammedAllii/TikTakToe/assets/58521599/09d5b951-e186-4c3d-b662-8683be385042)
